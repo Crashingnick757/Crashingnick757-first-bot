@@ -1,0 +1,3 @@
+Discord	bot.js	/^var Discord = require('discord.io');$/;"	v
+logger	bot.js	/^var logger = require('winston');$/;"	v
+auth	bot.js	/^var auth = require('.\/auth.json');$/;"	v
