@@ -60,9 +60,7 @@ const jokes = [
 
 const client = new Discord.Client(); 
 
-//const user = client.users.get('<id>');
-
-//client.user.setActivity('main');
+client.user.setActivity('In testing');
 
 Reflect.defineProperty(currency, 'add', {
 	value: async function add(id, amount) {
